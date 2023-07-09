@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/CMakeFiles/googletest
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/CMakeFiles/googletest.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/baojinri/Documents/code/CMU-15445/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
